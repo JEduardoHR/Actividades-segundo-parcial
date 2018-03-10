@@ -1,0 +1,309 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida 65",
+               "short_name" : "Av. 65",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Adolfo López Mateos",
+               "short_name" : "Adolfo López Mateos",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "San Miguel de Cozumel",
+               "short_name" : "San Miguel de Cozumel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cozumel",
+               "short_name" : "Cozumel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Av. 65 50, Adolfo López Mateos, San Miguel de Cozumel, Q.R., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.5021929,
+               "lng" : -86.9397601
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5035418802915,
+                  "lng" : -86.93841111970849
+               },
+               "southwest" : {
+                  "lat" : 20.5008439197085,
+                  "lng" : -86.94110908029151
+               }
+            }
+         },
+         "place_id" : "ChIJhxkWXixYTo8RhVeqi9PApZQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adolfo López Mateos",
+               "short_name" : "Adolfo López Mateos",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "San Miguel de Cozumel",
+               "short_name" : "San Miguel de Cozumel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cozumel",
+               "short_name" : "Cozumel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adolfo López Mateos, San Miguel de Cozumel, Q.R., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.5071397,
+                  "lng" : -86.9391926
+               },
+               "southwest" : {
+                  "lat" : 20.4959064,
+                  "lng" : -86.95104979999999
+               }
+            },
+            "location" : {
+               "lat" : 20.5022683,
+               "lng" : -86.9461361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5071397,
+                  "lng" : -86.9391926
+               },
+               "southwest" : {
+                  "lat" : 20.4959064,
+                  "lng" : -86.95104979999999
+               }
+            }
+         },
+         "place_id" : "ChIJY76znNNZTo8RSHvjgXHiixY",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Miguel de Cozumel",
+               "short_name" : "San Miguel de Cozumel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cozumel",
+               "short_name" : "Cozumel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Miguel de Cozumel, Quintana Roo, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.5536,
+                  "lng" : -86.9084505
+               },
+               "southwest" : {
+                  "lat" : 20.4711102,
+                  "lng" : -86.9642753
+               }
+            },
+            "location" : {
+               "lat" : 20.5071703,
+               "lng" : -86.94462369999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5536,
+                  "lng" : -86.9084505
+               },
+               "southwest" : {
+                  "lat" : 20.4711102,
+                  "lng" : -86.9642753
+               }
+            }
+         },
+         "place_id" : "ChIJWTZnCjNYTo8Rmm7Yxxb17Zw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cozumel",
+               "short_name" : "Cozumel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cozumel, Quintana Roo, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.5977105,
+                  "lng" : -86.7239527
+               },
+               "southwest" : {
+                  "lat" : 20.2715895,
+                  "lng" : -87.36342890000002
+               }
+            },
+            "location" : {
+               "lat" : 20.5022514,
+               "lng" : -86.9391572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5977105,
+                  "lng" : -86.7239527
+               },
+               "southwest" : {
+                  "lat" : 20.2715895,
+                  "lng" : -87.36342890000002
+               }
+            }
+         },
+         "place_id" : "ChIJseefosdRTo8Rt30VP-We10E",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quintana Roo, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.605504,
+                  "lng" : -86.7104052
+               },
+               "southwest" : {
+                  "lat" : 17.8939856,
+                  "lng" : -89.29656179999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1817393,
+               "lng" : -88.4791376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.605504,
+                  "lng" : -86.7104052
+               },
+               "southwest" : {
+                  "lat" : 17.8939856,
+                  "lng" : -89.29656179999999
+               }
+            }
+         },
+         "place_id" : "ChIJlSbD6vD8T48RnI1MSCrF8MQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

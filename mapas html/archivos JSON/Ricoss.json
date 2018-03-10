@@ -1,0 +1,383 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "280",
+               "short_name" : "280",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avenida Constituyentes",
+               "short_name" : "Av Constituyentes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gonzalo Guerrero",
+               "short_name" : "Gonzalo Guerrero",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Playa del Carmen",
+               "short_name" : "Playa del Carmen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solidaridad",
+               "short_name" : "Solidaridad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77720",
+               "short_name" : "77720",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Av Constituyentes 280, Gonzalo Guerrero, 77720 Playa del Carmen, Q.R., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 20.6344289,
+               "lng" : -87.07641579999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.6357778802915,
+                  "lng" : -87.0750668197085
+               },
+               "southwest" : {
+                  "lat" : 20.6330799197085,
+                  "lng" : -87.0777647802915
+               }
+            }
+         },
+         "place_id" : "ChIJJ27ToSZDTo8Rp7vk6H1WE8s",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gonzalo Guerrero",
+               "short_name" : "Gonzalo Guerrero",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Playa del Carmen",
+               "short_name" : "Playa del Carmen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solidaridad",
+               "short_name" : "Solidaridad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77720",
+               "short_name" : "77720",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gonzalo Guerrero, 77720 Playa del Carmen, Q.R., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.6414557,
+                  "lng" : -87.06180139999999
+               },
+               "southwest" : {
+                  "lat" : 20.6252035,
+                  "lng" : -87.0810977
+               }
+            },
+            "location" : {
+               "lat" : 20.6309006,
+               "lng" : -87.069919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.6414557,
+                  "lng" : -87.06180139999999
+               },
+               "southwest" : {
+                  "lat" : 20.6252035,
+                  "lng" : -87.0810977
+               }
+            }
+         },
+         "place_id" : "ChIJuaQ6bi9DTo8RwIX1xMFwQ6I",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Playa del Carmen",
+               "short_name" : "Playa del Carmen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solidaridad",
+               "short_name" : "Solidaridad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Playa del Carmen, Quintana Roo, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.7077211,
+                  "lng" : -87.02172499999999
+               },
+               "southwest" : {
+                  "lat" : 20.6001824,
+                  "lng" : -87.12166789999999
+               }
+            },
+            "location" : {
+               "lat" : 20.6295586,
+               "lng" : -87.0738851
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.7077211,
+                  "lng" : -87.02172499999999
+               },
+               "southwest" : {
+                  "lat" : 20.6001824,
+                  "lng" : -87.12166789999999
+               }
+            }
+         },
+         "place_id" : "ChIJYU4t0iNDTo8R3EqrO3gLweg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "77720",
+               "short_name" : "77720",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Sac Pacal",
+               "short_name" : "Sac Pacal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Playa del Carmen",
+               "short_name" : "Playa del Carmen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Solidaridad",
+               "short_name" : "Solidaridad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sac Pacal, 77720 Playa del Carmen, Q.R., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.6424247,
+                  "lng" : -87.0599797
+               },
+               "southwest" : {
+                  "lat" : 20.6251166,
+                  "lng" : -87.0810977
+               }
+            },
+            "location" : {
+               "lat" : 20.6309006,
+               "lng" : -87.069919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.6424247,
+                  "lng" : -87.0599797
+               },
+               "southwest" : {
+                  "lat" : 20.6251166,
+                  "lng" : -87.0810977
+               }
+            }
+         },
+         "place_id" : "ChIJbR9iLS9DTo8RJd0p4u37hpk",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Solidaridad",
+               "short_name" : "Solidaridad",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Solidaridad, Quintana Roo, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.8120637,
+                  "lng" : -86.9153288
+               },
+               "southwest" : {
+                  "lat" : 20.3568649,
+                  "lng" : -87.9627419
+               }
+            },
+            "location" : {
+               "lat" : 20.6523028,
+               "lng" : -87.06962729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.8120637,
+                  "lng" : -86.9153288
+               },
+               "southwest" : {
+                  "lat" : 20.3568649,
+                  "lng" : -87.9627419
+               }
+            }
+         },
+         "place_id" : "ChIJ95SBFG0kTo8RxpIu5vY9no4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quintana Roo, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.605504,
+                  "lng" : -86.7104052
+               },
+               "southwest" : {
+                  "lat" : 17.8939856,
+                  "lng" : -89.29656179999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1817393,
+               "lng" : -88.4791376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.605504,
+                  "lng" : -86.7104052
+               },
+               "southwest" : {
+                  "lat" : 17.8939856,
+                  "lng" : -89.29656179999999
+               }
+            }
+         },
+         "place_id" : "ChIJlSbD6vD8T48RnI1MSCrF8MQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            },
+            "location" : {
+               "lat" : 23.634501,
+               "lng" : -102.552784
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7186534,
+                  "lng" : -86.5887
+               },
+               "southwest" : {
+                  "lat" : 14.3895,
+                  "lng" : -118.6523001
+               }
+            }
+         },
+         "place_id" : "ChIJU1NoiDs6BIQREZgJa760ZO0",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
